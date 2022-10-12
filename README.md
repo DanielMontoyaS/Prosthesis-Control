@@ -1,1 +1,1 @@
-# Prosthesis-Control
+# Prosthesis Control
