@@ -7,7 +7,7 @@ The project consists of the control of MG90S servomotors, for the execution of o
 # Keynote
 ## Clone
 - git status
-- git clone git@github.com:DanielMontoyaS/Prosthesis-Control.git
+- git clone https://github.com/DanielMontoyaS/Prosthesis-Control.git
 
 ## Switched to Branch
 - git branch -a
